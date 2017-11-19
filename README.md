@@ -1,6 +1,7 @@
 # Crosh Dracula
 
-Dracula Theme for Crosh. 
+Dracula Theme for Crosh.
+[Screenshot](https://drive.google.com/file/d/1cyJ1FYvseI-tEmmFLzhDqJDVu8VWZTv-/view?usp=sharing)
 
 ## Install
 
