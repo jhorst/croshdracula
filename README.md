@@ -5,7 +5,7 @@ Dracula Theme for Crosh.
 ## Install
 
 1. Open Crosh : ctrl + alt + t
-2 .Open JavaScript Console : ctrl + shift + j
+2. Open JavaScript Console : ctrl + shift + j
 3. Copy and paste the content of crosh_dracula.js in the console window and hit enter.
 
 ```javascript
