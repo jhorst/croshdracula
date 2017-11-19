@@ -1,12 +1,12 @@
-# Chrosh Dracula
+# Crosh Dracula
 
 Dracula Theme for Crosh. 
 
 ## Install
 
-Open Crosh : ctrl + alt + t
-Open JavaScript Console : ctrl + shift + j
-Copy and paste the content of crosh_dracula.js in the console window and hit enter.
+1. Open Crosh : ctrl + alt + t
+2 .Open JavaScript Console : ctrl + shift + j
+3. Copy and paste the content of crosh_dracula.js in the console window and hit enter.
 
 ```javascript
 term_.prefs_.set('foreground-color', "#F8F8F2");
@@ -18,7 +18,7 @@ term_.prefs_.set('color-palette-overrides',
 "#50FA7B", "#8BE9FD", "#5AF78E", "#000000" ]);
 ```
 
-Restart Crosh.
+4. Restart Crosh.
 
 ### Links
 
